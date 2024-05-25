@@ -50,17 +50,6 @@ pod install
 
 We look forward to seeing you at the event and exploring Realm Database together!
 
-## Screenshots
-<a href="images/1.png"><img src="images/1.png" alt="Screenshot1" width="100" height="300"></a>
-<a href="images/2.png"><img src="images/2.png" alt="Screenshot2" width="100" height="300"></a>
-<a href="images/3.png"><img src="images/3.png" alt="Screenshot3" width="100" height="300"></a>
-<a href="images/4.png"><img src="images/4.png" alt="Screenshot4" width="100" height="300"></a>
-<a href="images/5.png"><img src="images/5.png" alt="Screenshot5" width="100" height="300"></a>
-<a href="images/6.png"><img src="images/6.png" alt="Screenshot6" width="100" height="300"></a>
-<a href="images/7.png"><img src="images/7.png" alt="Screenshot7" width="100" height="300"></a>
-<a href="images/8.png"><img src="images/8.png" alt="Screenshot8" width="100" height="300"></a>
-<a href="images/9.png"><img src="images/9.png" alt="Screenshot9" width="100" height="300"></a>
-
 ## Usage
 To run the app, simply clone the repository and open it in Xcode.
 
